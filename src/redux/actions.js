@@ -1,0 +1,2 @@
+export const LOGIN_REQUEST = 'LOGIN_REQUEST'
+export const POST_REQUEST = 'POST_REQUEST'
